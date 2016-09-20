@@ -1,0 +1,22 @@
+{
+  "name": "docesedelicias",
+  "version": "1.0.0",
+  "description": "Site vitrine de doces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docesedelicias/docesedelicias.git"
+  },
+  "author": "Igor Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docesedelicias/docesedelicias/issues"
+  },
+  "homepage": "https://github.com/docesedelicias/docesedelicias#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
